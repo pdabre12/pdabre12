@@ -16,12 +16,12 @@ As a dedicated learner, my aim is to play a role in creating technology that imp
 - <a href="https://developer.ibm.com/articles/use-netezza-to-analyze-and-build-machine-learning-models-for-geospatial-data-part-2/">
   Use Netezza to analyze and build machine learning models for geospatial data - Part 2</a>
 
-### Published Research Papers
+### 📝 Published Research Papers
 - <a href="https://www.irjet.net/archives/V7/i11/IRJET-V7I1153.pdf">Speech Emotion Recognition using CNN</a>
 - <a href="https://www.irjet.net/archives/V7/i11/IRJET-V7I1154.pdf">Predicting Healthcare Logistics using Data Science
 </a>
 
-### 📍Pinned Repositories
+### 📍 Pinned Repositories
 
 <a href="https://github.com/pdabre12/AHA-Ideas-Clone">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pdabre12&repo=AHA-Ideas-Clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -40,7 +40,7 @@ As a dedicated learner, my aim is to play a role in creating technology that imp
 </br>
 
 
-### GitHub Stats
+### 📈 GitHub Stats
 
 <a href="https://github.com/pdabre12">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdabre12&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
