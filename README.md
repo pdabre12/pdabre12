@@ -73,9 +73,22 @@ As a dedicated learner, my aim is to play a role in creating technology that imp
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=spark&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/Code-ApacheKafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ApacheSpark-informational?style=flat&logo=apachespark&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=aws&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=github&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MacOS-informational?style=flat&logo=macos&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-OOPS-informational?style=flat&logo=oops&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-DistributedSystems-informational?style=flat&logo=distributedsystems&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-DataStructures-informational?style=flat&logo=datastructures&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-DesignPatterns-informational?style=flat&logo=designpatterns&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Jira-informational?style=flat&logo=jira&logoColor=white&color=4AB197)
 
 
 <details>
