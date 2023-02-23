@@ -65,6 +65,16 @@ As a dedicated learner, my aim is to play a role in creating technology that imp
 ![](https://img.shields.io/badge/Code-Netezza-informational?style=flat&logo=netezza&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=reduz&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=spark&logoColor=white&color=4AB197)
 
 
 
