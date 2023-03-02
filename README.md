@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pratik, an aspring full-stack developer.
+I'm Pratik, an aspiring full-stack developer.
 As a dedicated learner, my aim is to play a role in creating technology that improves people's lives. I am an enthusiastic individual seeking a demanding role in the technical field that allows me to apply my problem-solving abilities, software engineering techniques, and excellent communication skills.
 
 <p align=”center”>
