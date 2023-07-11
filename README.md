@@ -10,6 +10,11 @@ As a dedicated learner, my aim is to play a role in creating technology that imp
 </a>
 </p>
 
+### Work Experience
+- IBM [Software Development Intern]
+- Techrupt Innovations [Software Development Intern]
+
+
 ### 📩 Recent Blog Posts
 - <a href="https://developer.ibm.com/articles/build-and-deploy-in-database-ml-applications-using-netezza-and-streamlit/">Build and deploy in-database machine-learning apps with Netezza and Streamlit</a>
 - <a href="https://developer.ibm.com/articles/use-netezza-to-analyze-and-build-machine-learning-models-for-geospatial-data-part-1/">
