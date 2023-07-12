@@ -27,25 +27,6 @@ As a dedicated learner, my aim is to play a role in creating technology that imp
 - <a href="https://www.irjet.net/archives/V7/i11/IRJET-V7I1154.pdf">Predicting Healthcare Logistics using Data Science
 </a>
 
-### 📍 Pinned Repositories
-
-<a href="https://github.com/pdabre12/AHA-Ideas-Clone">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pdabre12&repo=AHA-Ideas-Clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/IBM/netezza-spatial-analysis">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=IBM&repo=netezza-spatial-analysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-
-<a href="https://github.com/pdabre12/Hunger-Monkey">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pdabre12&repo=Hunger-Monkey&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</br>
-
-
 ### 💼 Skills
 ![](https://img.shields.io/badge/Code-DataStructures-informational?style=flat&logo=datastructures&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-DesignPatterns-informational?style=flat&logo=designpatterns&logoColor=white&color=4AB197)
