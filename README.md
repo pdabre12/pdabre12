@@ -11,6 +11,7 @@ As a dedicated learner, my aim is to play a role in creating technology that imp
 </p>
 
 ### Work Experience
+- IBM [Software Developer]
 - IBM [Software Development Intern]
 - Techrupt Innovations [Software Development Intern]
 
